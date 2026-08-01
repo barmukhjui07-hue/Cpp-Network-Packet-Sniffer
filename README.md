@@ -6,7 +6,13 @@ A terminal-based C++ application designed to capture, parse, and analyze network
 - **Payload Inspection:** Decodes and displays packet data in a readable CLI format.
 - **Clean & Modular C++:** Built using structured programming for easy readability and maintenance.
 
+~~ ✨ Key Features:
+- Custom packet structure modeling
+- Inspection engine for TCP/UDP/HTTP protocols
+- User-friendly CLI format
+  
 ~~ 🛠️ How to Compile & Run:
 ```bash
 g++ -o sniffer PacketSniffer.cpp
 ./sniffer
+
