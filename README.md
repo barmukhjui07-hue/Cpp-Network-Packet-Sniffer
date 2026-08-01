@@ -10,7 +10,12 @@ A terminal-based C++ application designed to capture, parse, and analyze network
 - Custom packet structure modeling
 - Inspection engine for TCP/UDP/HTTP protocols
 - User-friendly CLI format
-  
+
+~~ Executables:
+*.exe
+*.out
+sniffer
+
 ~~ 🛠️ How to Compile & Run:
 ```bash
 g++ -o sniffer PacketSniffer.cpp
